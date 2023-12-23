@@ -23,9 +23,9 @@ The data was collected from a well-known e-commerce website over a period of tim
 - **Orders:** Number of orders placed by each customer in the past.
 - **Remaining 35 features (brands):** Contains the number of times customers have searched them.
 
-## Tools used in this Project involves
+## Tools and Techniques used in this Project involves
 - Python programming
 - Data Cleaning and Preprocessing
 - Data Visualization
 - Data Analysis 
-- Unsupervised Machine Learning Algorithm - for model building
+- Unsupervised Machine Learning Algorithm - K Means Clustering - for model building
